@@ -4,7 +4,9 @@ title: About me
 subtitle: Following I am presenting a brief sotry about my interests and professional experience
 ---
 
-*Be ashamed to die until you have won some victory for humanity* is  quote by Horace Mann that express my aspirations in life. Besides all the things I do to achieve this, I truly enjoy hanging out with friends discussing their problems or humanity's problems over a couple of beers. Going for a hike at a mountain or spending time with myself reading books while drinking some hot chocolate or a cup of tea. In my spare time you may also catch me working on my side projects for whcih you can learn more [here]. 
+*Be ashamed to die until you have won some victory for humanity*
+
+is  quote by Horace Mann that express my aspirations in life. Besides all the things I do to achieve this, I truly enjoy hanging out with friends discussing their problems or humanity's problems over a couple of beers. Going for a hike at a mountain or spending time with myself reading books while drinking some hot chocolate or a cup of tea. In my spare time you may also catch me working on my side projects for whcih you can learn more [here]. 
 
 ### Experience
 So, I am a software engineer with passion for Artificial Intelligence and its applications. I am currently working in a FinTech company - Rapyd.net one of the largest and most prominent companies in the payments sector. I also have long experience as a product manager from my days at In4Capital.com a matchmaking platform that bridges the gap between investors and startups. Finally I have been involved in many big research projects (such as European Horizon 2020 and Aspire2050), where I developed:
