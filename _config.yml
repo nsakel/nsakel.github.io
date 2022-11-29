@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Nikos Sakellariou
+title: The uncommon investor
 
 # Your name to show in the footer
 author: Nikos Sakellariou
@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/my_profile.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -46,11 +46,11 @@ social-network-links:
   twitter: nsakThread0
 # patreon: DeanAttali
   youtube: channel/UCrckhRVybmn7OblQ2xsswgA
-#  medium: yourname
+  medium: nikossakellariou
 #  reddit: yourname
   linkedin: nikossakellariou
 #  xing: yourname
-  stackoverflow: /users/296441/nikos-sakellariou
+#  stackoverflow: /users/296441/nikos-sakellariou
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -64,7 +64,7 @@ social-network-links:
 #  ORCID: your ORCID ID
   google-scholar: citations?user=wgBweWgAAAAJ&hl=el
 #  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
+  kaggle: nikolaos
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
