@@ -1,21 +1,76 @@
 ---
 layout: page
-title: About me
-subtitle: Following I am presenting a brief sotry about my interests and professional experience
+title: About Me
+subtitle: A short story about my interests, mindset, and professional journey
+permalink: /aboutme/
 ---
 
-*"Be ashamed to die until you have won some victory for humanity"*
+> *"Be ashamed to die until you have won some victory for humanity."*  
+> — **Horace Mann**
 
-is a quote by Horace Mann that express my aspirations in life. Besides all the things I do to achieve this, I truly enjoy hanging out with friends discussing their problems or humanity's problems over a couple of beers. Going for a hike at a mountain or spending time with myself reading books while drinking some hot chocolate or a cup of tea. In my spare time you may also catch me working on my side [projects] or researching for my next investment opportunity. 
+This quote has always expressed my aspirations in life.  
+Beyond technology and work, I find meaning in contributing to something larger than myself — whether that’s through innovation, mentoring, or solving complex real-world problems.
 
-### Experience
-So, I am a software engineer with passion for Artificial Intelligence and its applications. I am currently working in a FinTech company - Rapyd.net one of the largest and most prominent companies in the payments sector. I also have long experience as a product manager from my days at In4Capital.com a matchmaking platform that bridges the gap between investors and startups. Finally I have been involved in many big research projects (such as European Horizon 2020 and Aspire2050), where I developed:
+When I’m not coding, I enjoy long conversations with friends about life and the challenges humanity faces — ideally over a couple of beers. You might also find me hiking, reading a good book with a cup of hot chocolate, or exploring my next investment opportunity. Occasionally, I work on [side projects](/projects) that blend curiosity, data, and creativity.
 
-- Machine learning and statistical models for anomaly detection in industrial machinery and autonomous vehicles cybersecurity.
-- Deep learning models for multimodal UAV detections utilizing diverse ground sensors (optronic and thermal cameras, 2D and 3D radars)
-- Designed (and implemented) the big data architecture for retrieving real time data from multiple sensors of autonomous vehicles
-- Designed cyber security dashboards for presenting the functionality of a fleet of autonomous vehicles
-- Developed machine learning algorithms that detect Wi-Fi (IEEE 802.11) pathologies
-- Developed protocols for IoT applications that retrieve enviromental pollution data
-You can check more details on my linkedin [profile](https://www.linkedin.com/in/nikossakellariou/).
+---
 
+## 💼 Professional Overview
+
+I’m **Nikos Sakellariou**, an **AI & FinTech Engineer** with a deep passion for **artificial intelligence**, **data systems**, and **product development**.  
+Currently, I’m based in **Dubai, UAE**, working at **Rapyd.net**, one of the world’s leading FinTech companies. My focus lies in building reliable, data-driven backend systems for **payment reconciliation**, **billing**, and **settlement**, while leveraging AI to improve performance and automation.
+
+Previously, I served as **Head of IT** and co-founder at [**NeuroHive.eu**](https://www.neurohive.eu), where I led research and development on deep learning algorithms that enhance agricultural productivity — part of which was later published in *Computers and Electronics in Agriculture* (Elsevier).  
+
+Earlier, as **CTO** at [**In4Capital.com**](https://www.in4capital.com), I directed the redesign of a FinTech platform that connects startups and investors. The effort reduced development costs by **80%** and boosted user acquisition by **400%**.  
+My experience also includes several **European Horizon 2020** and **Aspire2050** research projects, where I worked on deep learning, data fusion, and big data systems for autonomous vehicles and industrial anomaly detection.
+
+---
+
+## 🧩 Research & Technical Contributions
+
+Throughout my career, I’ve designed and implemented:
+
+- **Machine learning and statistical models** for anomaly detection in industrial machinery and autonomous vehicles  
+- **Deep learning architectures** for multimodal UAV detection using data from optical, thermal, and radar sensors  
+- **Big data architectures** for real-time sensor data retrieval from fleets of autonomous vehicles  
+- **Cybersecurity dashboards** visualizing the operational health of autonomous systems  
+- **AI algorithms** for diagnosing Wi-Fi (IEEE 802.11) performance issues  
+- **IoT protocols and systems** for environmental pollution monitoring  
+
+These projects reflect my belief that intelligent systems can — and should — solve tangible, human problems.
+
+---
+
+## 📚 Publications
+
+- *A deep learning algorithm predicts milk yield and production stage of dairy cows utilizing ultrasound echotexture analysis* — **Computers and Electronics in Agriculture, 2022**  
+- *Deep Learning on Multi-Sensor Data for Counter-UAV Applications — A Systematic Review* — **Sensors, 2019**  
+- *On the Employment of Machine Learning Techniques for Troubleshooting WiFi Networks* — **IEEE CCNC, 2019**  
+
+See more of my research on [Google Scholar](https://scholar.google.com/citations?user=wgBweWgAAAAJ&hl=el).
+
+---
+
+## 🧰 Skills Snapshot
+
+**Languages & Tools:** Python, SQL, Sanic, Flask, TensorFlow, scikit-learn, Pandas, NumPy, MySQL, PostgreSQL, MongoDB, AWS, Docker, Git, Spark, CI/CD  
+**Domains:** FinTech, AI/ML, Data Engineering, Payment Systems, Research & Development  
+**Soft Skills:** Product Management, Leadership, Agile Methods, Technical Writing, Communication
+
+---
+
+## 🌍 Languages
+
+- Greek (Native)  
+- English (Full Professional Proficiency)  
+- French (Basic)
+
+---
+
+## 💬 Let’s Connect
+
+📧 [saknikolaos@gmail.com](mailto:saknikolaos@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nikossakellariou/) | [GitHub](https://github.com/nsakel) | [Medium](https://medium.com/@nikossakellariou) | [Kaggle](https://www.kaggle.com/nikolaos)
+
+---
