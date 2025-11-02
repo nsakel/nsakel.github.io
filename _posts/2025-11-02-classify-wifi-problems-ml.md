@@ -2,9 +2,9 @@
 layout: post
 title: "How to Classify WiFi Problems with Machine Learning"
 subtitle: "A practical summary of our IEEE CCNC 2019 research on diagnosing WiFi pathologies"
-cover-img: /assets/img/wifi_network.jpg
-thumbnail-img: /assets/img/wifi_thumb.jpg
-share-img: /assets/img/wifi_network.jpg
+cover-img: /assets/img/wireless_pathologies.png
+thumbnail-img: /assets/img/wireless_pathologies.png
+share-img: /assets/img/wireless_pathologies.png
 tags: [machine learning, research, wifi, networks, ai]
 comments: true
 ---
