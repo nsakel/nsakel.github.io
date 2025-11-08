@@ -2,7 +2,7 @@
 layout: post
 title: "How to Classify WiFi Problems with Machine Learning"
 subtitle: "A practical summary of our IEEE CCNC 2019 research on diagnosing WiFi pathologies"
-cover-img: /assets/img/wireless_pathologies.png
+cover-img:
 thumbnail-img: /assets/img/wireless_pathologies.png
 share-img: /assets/img/wireless_pathologies.png
 tags: [machine learning, research, wifi, networks, ai]
@@ -18,7 +18,7 @@ presented at **IEEE CCNC 2019**.
 
 ---
 
-## 🧩 The Problem
+## The Problem
 
 As WiFi networks grow denser — with laptops, IoT devices, smart TVs, and microwaves all sharing the same spectrum — diagnosing poor performance becomes extremely complex.
 
@@ -33,7 +33,7 @@ Traditional troubleshooting requires specialized equipment and deep knowledge of
 
 ---
 
-## 💡 Our Approach
+## Approach
 
 We designed a **machine learning framework** that allows any **low-cost WiFi access point (AP)** to become “intelligent.”  
 By analyzing data already available from the AP’s network drivers (like transmission success rates and channel access frequency), the system can automatically **classify the root cause** of a connection issue.
@@ -48,7 +48,7 @@ Two detection modes were developed:
 
 ---
 
-## 🧠 The Machine Learning Models
+## The Machine Learning Models
 
 We evaluated four popular classification algorithms:
 
@@ -68,7 +68,7 @@ By combining these with information about the **modulation scheme (MCS)** used, 
 
 ---
 
-## 📊 Results
+## Results
 
 After fine-tuning and cross-validation, the results were remarkable:
 
@@ -83,7 +83,7 @@ The **KNN model** achieved near-perfect classification accuracy — **99% for ac
 
 ---
 
-## ⚙️ Why It Matters
+## Why It Matters
 
 This work demonstrates that:
 - **Machine learning can make WiFi networks self-diagnosing.**
@@ -94,7 +94,7 @@ Future extensions include **multi-label detection**, allowing the system to reco
 
 ---
 
-## 🔬 Reference
+## Reference
 
 **Ilias Syrigos**, **Nikos Sakellariou**, **Stratos Keranidis**, and **Thanasis Korakis**,  
 *"On the Employment of Machine Learning Techniques for Troubleshooting WiFi Networks,"*  
